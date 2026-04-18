@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Little Helpers</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 { color: #2c3e50; }
+    h2 { color: #34495e; margin-top: 30px; }
+    p { margin-bottom: 12px; }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+  <p><strong>Application:</strong> Little Helpers<br>
+  <strong>Effective Date:</strong> April 18, 2026<br>
+  <strong>Contact:</strong> info@littlehelpers.pro</p>
+
+  <h2>1. Introduction</h2>
+  <p>This Privacy Policy describes how Little Helpers collects, uses, and protects the personal data of its users. By using the application, you agree to the terms of this policy.</p>
+
+  <h2>2. Data We Collect</h2>
+  <p>We collect the following data:</p>
+  <ul>
+    <li>Email address — for registration and login</li>
+    <li>Family member names — for display within the app</li>
+    <li>Tasks, rewards, and points data — for app functionality</li>
+    <li>Device information — to ensure the app works correctly</li>
+  </ul>
+  <p>We do not collect geolocation, payment details, photos, or any other personal information.</p>
+
+  <h2>3. How We Use Your Data</h2>
+  <p>Collected data is used solely for:</p>
+  <ul>
+    <li>User registration and authentication</li>
+    <li>Providing the family space functionality within the app</li>
+    <li>Storing tasks, points, and rewards</li>
+    <li>Improving app quality and user experience</li>
+  </ul>
+
+  <h2>4. Data Storage</h2>
+  <p>Data is stored on Google Firebase servers located in secure data centers. We use Firebase Authentication and Cloud Firestore. Google Firebase complies with international data security standards including GDPR.</p>
+
+  <h2>5. Third-Party Sharing</h2>
+  <p>We do not sell, transfer, or disclose your personal data to third parties, except as required by law.</p>
+
+  <h2>6. Children's Data</h2>
+  <p>Little Helpers is intended for use by parents. Children's data (names, points, tasks) is entered by parents and stored within the family account. We do not collect data from children directly and do not share it with third parties.</p>
+
+  <h2>7. Data Security</h2>
+  <p>We take all necessary technical measures to protect your data from unauthorized access, modification, or deletion. All data is transmitted over an encrypted HTTPS connection.</p>
+
+  <h2>8. Data Deletion</h2>
+  <p>You may request deletion of your data at any time by contacting us at info@littlehelpers.pro. We will delete all your data within 30 days of your request.</p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>We reserve the right to update this Privacy Policy. We will notify users of significant changes through the app or via email.</p>
+
+  <h2>10. Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, please contact us:<br>
+  <strong>Email:</strong> info@littlehelpers.pro<br>
+  <strong>Website:</strong> littlehelpers.pro</p>
+
+</body>
+</html>
